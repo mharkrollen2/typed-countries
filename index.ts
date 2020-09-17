@@ -2135,6 +2135,10 @@ export const countries: Country[] = [
                 "name": "Pennsylvania"
             },
             {
+                "iso": "PR",
+                "name": "Puerto Rico"
+            },
+            {
                 "iso": "RI",
                 "name": "Rhode Island"
             },
